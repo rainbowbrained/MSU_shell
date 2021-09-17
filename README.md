@@ -1,2 +1,2 @@
-# MSU_workshop
-Tasks from MSU to practice C, C++ languages
+# MSU_shell
+Task from MSU to practice C, C++ languages
